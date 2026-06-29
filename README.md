@@ -20,7 +20,7 @@
 <hr>
 
 <p align="center">
-  <i><b>🚀 Fun Fact: I love exploring new technologies and building impactful web applications!</b></i>
+  <i><b>🚀 Fun Fact: I love exploring new technologies and building impactful web applications! and sometimes i learn bout AI and Used it for coding make my work more easier!</b></i>
 </p>
 
 <hr>
@@ -39,7 +39,7 @@
 ### 🧰 Development Ecosystem & Skills
 - **Frontend Development:** React, JavaScript, Tailwind CSS
 - **Backend Development:** Laravel, PHP, REST API
-- **Database:** MongoDB
+- **Database:** MongoDB, MySQL.
 - **DevOps & Tools:** Docker, Laragon, Postman, VS Code, GitHub
 - **AI & Productivity Tools:** Antigravity, Kiro
 
