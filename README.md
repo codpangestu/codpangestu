@@ -14,7 +14,7 @@
 
 <p align="center">
   <em>
-    Halo! Saya <b>Akbar Pangestu</b>, and i'm a <b>Fullstack Developer</b> from Indonesia. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
+    Halo! here me <b>Akbar Pangestu</b>, and i'm a <b>Fullstack Developer</b> from Indonesia. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
     I like building modern, responsive, and scalable web applications with focus on <b>Frontend</b> and <b>Backend</b> development.
   </em>
 </p>
