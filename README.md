@@ -12,8 +12,8 @@
 
 <p align="center">
   <em>
-    Halo! Saya <b>Akbar Pangestu</b>, seorang <b>Fullstack Developer</b> dari Indonesia. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
-    Suka membangun aplikasi web yang modern, responsif, dan scalable dengan fokus pada <b>Frontend</b> dan <b>Backend</b> development.
+    Halo! Saya <b>Akbar Pangestu</b>, and i'm a <b>Fullstack Developer</b> from Indonesia. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
+    I like building modern, responsive, and scalable web applications with focus on <b>Frontend</b> and <b>Backend</b> development.
   </em>
 </p>
 
