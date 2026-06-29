@@ -2,6 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=100&lines=Hello+World!+%F0%9F%96%90%EF%B8%8F;I'm+Akbar+Pangestu;Fullstack+Developer;Frontend+%26+Backend+Engineer" alt="Typing SVG" />
 </div>
 
+<br>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Fullstack%20Developer-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Focus-Frontend%20%26%20Backend-brightgreen?style=flat-square" />
